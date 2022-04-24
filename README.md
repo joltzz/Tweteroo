@@ -2,12 +2,12 @@
 <img height="60px" src="./assets/logo.png">
 </h1>
 
+
 ## About
 
-A social network that simulates a personal blog, where people post "What's on your mind?". Tweteroo is a Twitter clone.
+A social network that simulates a personal blog, where people post "What's on your mind?". Basically a twitter clone
 
 <div align="center">
-
 
 </div>
 
