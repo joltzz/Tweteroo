@@ -22,4 +22,3 @@ A social network that simulates a personal blog, where people post "What's on yo
 
 :ballot_box_with_check: `Post` - Add your tweets
 
-## :woman_technologist: Technologies
