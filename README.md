@@ -8,7 +8,6 @@ A social network that simulates a personal blog, where people post "What's on yo
 
 <div align="center">
 
-![GitHub Org's stars](https://img.shields.io/github/stars/lusntgo?style=social)
 
 </div>
 
